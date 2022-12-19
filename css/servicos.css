@@ -1,0 +1,83 @@
+.pgr {
+  padding: 2.0rem;
+  text-align: center;
+  font-family: 'open sans', sans-serif;
+}
+
+.h1-pgr {
+  font-size: 4.8rem;
+  font-weight: bold;
+  color: var(--corverde);
+  padding-bottom: 2.0rem;
+}
+
+h2 {
+  font-size: 2rem;
+  font-weight: bold;
+  color: var(--corverde);
+  padding-bottom: 2.0rem;
+  line-height: 32px;
+}
+
+h3 {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: var(--corverde);
+  padding-bottom: 2.0rem;
+  border-radius: 2rem;
+  border: 1px solid var(--corverde);
+  width: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+h4 {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: var(--corverde);
+  padding-bottom: 2.0rem;
+  border-radius: 2rem;
+  border: 1px solid var(--corverde);
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+
+
+.p-pgr {
+  font-size: 1.8rem;
+  line-height: 3rem;
+  color: black;
+  padding-bottom: 2.0rem;
+}
+.p-pgr-b {
+  font-size: 1.8rem;
+  font-weight: bold;
+  line-height: 3rem;
+  color: black;
+  padding-bottom: 2.0rem;
+}
+
+.pgr a{
+  display: inline-block;
+  padding: 16px 32px;
+  background: linear-gradient(#ffbf00, #f2a50c);
+  color: #13524b;
+  border-radius: 8px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  font-family: 'candara' sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.33;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.pgr a:hover {
+  background: linear-gradient(#ffb60d, #e59317);
+}

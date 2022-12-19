@@ -1,5 +1,5 @@
 .pgr {
-  padding: 2.0rem;
+  padding: 2rem;
   text-align: center;
   font-family: 'open sans', sans-serif;
 }
@@ -8,14 +8,14 @@
   font-size: 4.8rem;
   font-weight: bold;
   color: var(--corverde);
-  padding-bottom: 2.0rem;
+  padding-bottom: 2rem;
 }
 
 h2 {
   font-size: 2rem;
   font-weight: bold;
   color: var(--corverde);
-  padding-bottom: 2.0rem;
+  padding-bottom: 2rem;
   line-height: 32px;
 }
 
@@ -23,7 +23,7 @@ h3 {
   font-size: 1.8rem;
   font-weight: bold;
   color: var(--corverde);
-  padding-bottom: 2.0rem;
+  padding-bottom: 2rem;
   border-radius: 2rem;
   border: 1px solid var(--corverde);
   width: 150px;
@@ -37,7 +37,7 @@ h3 {
   font-size: 1.8rem;
   font-weight: bold;
   color: var(--corverde);
-  padding-bottom: 2.0rem;
+  padding-bottom: 2rem;
   border-radius: 2rem;
   border: 1px solid var(--corverde);
   width: 300px;
@@ -47,23 +47,21 @@ h3 {
   padding-bottom: 10px;
 }
 
-
-
 .p-pgr {
   font-size: 1.8rem;
   line-height: 3rem;
   color: black;
-  padding-bottom: 2.0rem;
+  padding-bottom: 2rem;
 }
 .p-pgr-b {
   font-size: 1.8rem;
   font-weight: bold;
   line-height: 3rem;
   color: black;
-  padding-bottom: 2.0rem;
+  padding-bottom: 2rem;
 }
 
-.pgr a{
+.pgr a {
   display: inline-block;
   padding: 16px 32px;
   background: linear-gradient(#ffbf00, #f2a50c);

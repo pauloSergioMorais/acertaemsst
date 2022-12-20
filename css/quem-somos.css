@@ -99,10 +99,8 @@
 	margin-bottom: 70px;
 	margin-top: 50px;
     box-shadow: 0 10px 35px 2px rgba(61, 61, 61, .2);
-	-webkit-transition: all 0.5s;
-	-moz-transition: all 0.5s;
-	-ms-transition: all 0.5s;
-	-o-transition: all 0.5s;
+	transition: all 0.5s;
+	
 }
 
 .hs_additional_support h4 {

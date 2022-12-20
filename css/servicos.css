@@ -11,7 +11,7 @@
   padding-bottom: 2rem;
 }
 
-h2 {
+.p-pgr h2 {
   font-size: 2rem;
   font-weight: bold;
   color: var(--corverde);
@@ -19,7 +19,7 @@ h2 {
   line-height: 32px;
 }
 
-h3 {
+.p-pgr h3 {
   font-size: 1.8rem;
   font-weight: bold;
   color: var(--corverde);

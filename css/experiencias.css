@@ -45,15 +45,7 @@
   font-weight: bold;
 }
 
-.hs_heading:before {
-	content : "";
-	position: absolute;
-	left : 0;
-	bottom : 0;
-	height : 2px;
-	width : 65px;
-	border-bottom: 2px solid var(--coramarelo);
-}
+
 
 
 

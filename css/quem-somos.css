@@ -92,13 +92,14 @@
 
 .hs_additional_support {
 	width: 100%;
+  height: auto;
 	float: left;
 	text-align: center;
 	padding: 20px 20px 40px 20px;
 	border-bottom: 2px solid var(--cormenu);
 	margin-bottom: 70px;
 	margin-top: 50px;
-    box-shadow: 0 10px 35px 2px rgba(61, 61, 61, .2);
+  box-shadow: 0 10px 35px 2px rgba(61, 61, 61, .2);
 	transition: all 0.5s;
 	
 }
@@ -114,6 +115,27 @@
 .hs_additional_support:hover h4 {
 	color: var(--corverde);
     font-weight: bold;
+}
+
+.hs_additional_support .treinamentos {
+	font-family: 'open sans', sans-serif;
+    font-size: 2.0rem;
+    color: var(--corverde);
+    line-height: 2.4rem;
+    text-align: center;
+	  text-transform:none;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.hs_additional_support .treinamentos-p {
+	font-family: 'open sans', sans-serif;
+    font-size: 1.6rem;
+    line-height: 2.4rem;
+    text-align: center;
+	  text-transform:none;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
 }
 
 .hs_additional_support p {

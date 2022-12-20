@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2480px" height="3508px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2480 3507.43"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="629" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="700">
+	<font-face 
+		font-family="Candara">
+		<font-face-src>
+			<font-face-name name="Candara Bold"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="1" horiz-adv-x="334" d="M256.332 0l-130.333 0c3.50041,83.9999 5.33355,151.666 5.33355,203.166 0,52.3332 -1.1668,108.334 -3.33312,168l-78.1659 -34.1662 -25.3337 46.8338 171.333 131.832 60.4994 0c-3.50041,-134.165 -5.33355,-238.333 -5.33355,-312.499 0,-49.8323 1.83314,-117.5 5.33355,-203.166z"/>
+   <glyph unicode="N" horiz-adv-x="664" d="M594.165 0l-120.5 0c0,13.3339 -44.8333,83.8326 -134.333,211.499 -93.6661,134.333 -147.166,226.333 -160.167,275.833l-7.83304 0c8.16621,-71.3338 12.333,-135.834 12.333,-193.333 0,-80.4995 2.16631,-178.5 6.83353,-293.999l-120.167 0c4.83309,101 7.33399,211.832 7.33399,332.499 0,118.832 -2.5009,220 -7.33399,303.332l145 0c0,-17.3333 40.1661,-86.1662 120.667,-206.666 85.4985,-127.832 134.666,-214.666 147.332,-260.166l7.33399 0c-7.83304,72.5006 -11.6666,137.666 -11.6666,195.333 0,88.1667 -2.33361,178.667 -6.83353,271.499l122 0c-4.49992,-80.8327 -6.83353,-181.833 -6.83353,-303.332 0,-122.333 2.33361,-233.166 6.83353,-332.499z"/>
+   <glyph unicode="R" horiz-adv-x="595" d="M584.998 0l-144.499 0c-37.8325,115.166 -66.8325,186.333 -86.9999,213.332 -20.166,27.0009 -52.6664,40.5007 -97.667,40.5007 -18.8319,0 -36.833,-0.167294 -54.1663,-0.33317 0,-83.6667 1.49997,-168.167 4.33404,-253.5l-135.667 0c4.16675,98.3333 6.33306,209.165 6.33306,332.499 0,118.499 -2.16631,219.665 -6.33306,303.332l84.5004 0c9.66618,0 30.1668,0.33317 61.1657,1.3341 31.1677,0.99951 59.833,1.49997 86.3335,1.49997 149.332,0 223.999,-51.1664 223.999,-153.333 0,-81 -42.667,-137.5 -127.832,-169.333l0 -7.33399c32.8321,-9.16571 61.6662,-34.8326 86.3321,-76.9991 24.8332,-42.1665 58.1672,-119.333 100.166,-231.666zm-183.165 449.165c0,64.8334 -41.6675,97.1665 -125,97.1665 -30.4999,0 -57.6667,-2.16631 -81,-6.83353 3.50041,-50.3327 5.33355,-116.166 5.33355,-197.166 17.8324,-0.66634 32.9994,-1.00093 45.3324,-1.00093 103.667,0 155.334,36.0008 155.334,107.834z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Candara";font-variant:normal;font-style:normal;font-weight:bold;src:url("#FontID0") format(svg)}
+    .str0 {stroke:#ED3237;stroke-width:47.24;stroke-miterlimit:22.9256}
+    .fil1 {fill:#373435}
+    .fil0 {fill:#E6DB00}
+    .fnt0 {font-weight:bold;font-size:832.98px;font-family:'Candara'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0 str0" transform="matrix(0.707107 -0.707107 0.707107 0.707107 213.128 1619.39)" width="1371.84" height="1371.84" rx="59.05" ry="59.05"/>
+  <text x="633.47" y="1725.87"  class="fil1 fnt0">NR</text>
+  <text x="1019" y="2231.5"  class="fil1 fnt0">1</text>
+ </g>
+</svg>

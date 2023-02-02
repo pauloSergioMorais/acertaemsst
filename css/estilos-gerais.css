@@ -85,12 +85,6 @@
   color: var(--corverde);
 }
 
-
-
-.color-preto {
-  color: var(--corverde);
-}
-
 .text-transform-uppercase {
   text-transform: uppercase;
 }
@@ -131,7 +125,7 @@
   background: #fff;
   border-radius: 4px;
   box-shadow: 0 0 10px 0 var(--corverde);
-  /* height: 400px; */
+ 
 }
 
 
@@ -219,4 +213,3 @@
 .hs_margin_60 {
 	margin-bottom: 60px;
 }
-

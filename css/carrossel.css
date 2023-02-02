@@ -106,7 +106,7 @@
 
 
 .carrossel-texto {
-  margin-top: 6.0rem;
+  margin-top: 12.5rem;
   margin-left: 2.0rem;
 }
 
@@ -116,7 +116,8 @@
   color: var(--corverde);
   font-family: 'Open Sans', sans-serif;
   font-weight: bold;
-  
+  box-shadow: 1 solid var(--corverde);
+
  }
 
  .fist-animacao span {
@@ -124,6 +125,7 @@
   color: var(--coramarelo);
   font-family: 'Candara', sans-serif;
   font-weight: bold;
+  box-shadow: 1 solid var(--corverde);
  }
 
  @media (min-width: 320px) {
@@ -197,7 +199,7 @@
  }
 
  .carrossel-texto-2 {
-  margin-top: 4rem;
+  margin-top: 12.5rem;
 }
  .carrossel-texto-2 .fist-animacao-2 {
   font-size: 6.6rem;
@@ -207,7 +209,7 @@
   font-weight: bold;
   text-align: right;
   margin-right: 9rem;
-  
+
  }
 
  .carrossel-texto-2 .fist-animacao-2 span {
@@ -317,7 +319,7 @@
 
 
  .carrossel-texto-3 {
-  margin-top: 4rem;
+  margin-top: 12.5rem;
 }
 
  .carrossel-texto-3 .fist-animacao-3 {
@@ -328,7 +330,7 @@
   font-weight: bold;
   text-align: right;
   margin-right: 9rem;
-  
+
  }
 
  .carrossel-texto-3 .fist-animacao-3 span {
@@ -400,7 +402,7 @@
     font-size: 3rem;
     line-height: 4.3rem;
     margin-right: 6rem;
-    
+
   }
   .carrossel-texto-3 .fist-animacao-3 span {
     font-size: 5rem;
@@ -415,7 +417,7 @@
     font-size: 4rem;
     line-height: 5.5rem;
     margin-right: 10rem;
-    
+
   }
   .carrossel-texto-3 .fist-animacao-3 span {
     font-size: 6rem;

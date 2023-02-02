@@ -52,7 +52,9 @@
   width: 100%;
   padding: 1.6rem 1.6rem;
   flex-direction: column;
-  justify-content: flex-end;
+  justify-content: center;
+  border-top: 1px solid rgba(0, 0, 0, 0.12);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
 }
 .topo-centro-wrap {
   width: 100%;
@@ -181,11 +183,11 @@
   content: 'keyboard_arrow_down';
   width: 2rem;
   height: 2rem;
-  margin: -4px 4px;
+  margin: -0.4rem 0.4rem;
   color: rgba(0, 0, 0, 0.38);
   font-size: 2rem;
   line-height: 1;
-  transition: transform 0.2s;
+  transition: transform 0.4s;
 }
 .menu-botao-ativo {
   padding: 2.4rem 1.2rem;
@@ -226,7 +228,7 @@
   width: 100%;
   padding: 12px;
   display: block;
-  transition: color 0.2s, background 0.2s;
+  transition: color 0.4s, background 0.4s;
   color: var(--corcinza);
   font-size: 1.3rem;
   line-height: 1.5;
@@ -328,13 +330,7 @@
 }
 
 
-/*Responsivo tamanho logo */
-@media all and (min-width: 320px) {
-  .topo-logo-header {
-    width: 12rem;
-    height: 100%;
-  }
-}
+
 
 @media all and (min-width: 800px) {
   .topo-logo-header {
